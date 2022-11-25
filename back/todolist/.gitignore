@@ -1,0 +1,5 @@
+# extension
+*.py[cod]
+
+# database
+*.sqlite3
